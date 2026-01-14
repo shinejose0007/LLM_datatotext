@@ -1,0 +1,8 @@
+streamlit
+pandas
+sentence-transformers
+faiss-cpu
+transformers
+torch
+rouge-score
+bert-score
