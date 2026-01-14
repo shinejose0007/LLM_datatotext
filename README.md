@@ -49,3 +49,19 @@ Open `notebooks/evaluation_batch.ipynb` in Jupyter and run all cells.
 - `app/rag.py` — RAG functions + embedding caching + sqlite metadata
 - `notebooks/evaluation_batch.ipynb` — batch evaluation producing `data/eval_metrics.csv`
 - `tests/test_basic.py` — pytest suite
+
+
+Outputs
+
+<p align="center"><img src="1.JPG" width="1000"></p>
+<p align="center"><img src="2.JPG" width="1000"></p>
+<p align="center"><img src="3.JPG" width="1000"></p>
+<p align="center"><img src="4.JPG" width="1000"></p>
+
+
+
+
+**Author:** Shine Jose
+**License:** MIT (see LICENSE file)
+
+This repository is provided as sample educational content by Shine Jose..... Use and modify freely.....
