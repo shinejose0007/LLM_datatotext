@@ -1,4 +1,4 @@
-    # LLM Data Text Prototype - Shine Jose
+## LLM Data Text Prototype - Shine Jose
 
 This final package includes:
 - RAG (FAISS + SQLite metadata) with embedding caching (saved SentenceTransformer model files)
